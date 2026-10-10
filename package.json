@@ -1,0 +1,10 @@
+{
+  "name": "impact-lab-3d",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --test tests/deformation.test.js"
+  }
+}
